@@ -16,7 +16,7 @@ insert into user values ('ddakker', 'dkdk');
 ### 조회
 * http://localhost:8080/
 
-## 조건 조회
+### 조건 조회
 * http://localhost:8080/ddakker
 
 ## 네이티브 쿼리 조회
